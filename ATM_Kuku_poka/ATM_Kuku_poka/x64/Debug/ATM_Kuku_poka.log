@@ -1,0 +1,3 @@
+﻿  ATM_Kuku_poka.cpp
+C:\Users\sergm\Desktop\ATM_2.0-main\ATM_Kuku_poka\ATM_Kuku_poka\ATM_Kuku_poka.cpp(67,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ATM_Kuku_poka.vcxproj -> C:\Users\sergm\Desktop\ATM_2.0-main\ATM_Kuku_poka\x64\Debug\ATM_Kuku_poka.exe
